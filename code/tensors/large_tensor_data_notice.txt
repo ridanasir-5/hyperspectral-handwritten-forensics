@@ -1,1 +1,27 @@
+Large-Scale Hyperspectral Tensor Storage Notice
 
+This repository contains the implementation, preprocessing pipeline, evaluation framework, representative metadata, visualization outputs, and reproducibility resources associated with the study:
+
+“Hyperspectral Handwriting Analysis for Writer Verification and Ink Mismatch Detection Using a Hybrid CNN-LSTM Model”.
+
+The complete hyperspectral handwriting dataset generated during this study consists of approximately 52.2 GB of data, including nearly 51.4 GB of processed tensor representations used during model training and evaluation.
+
+Due to GitHub repository storage limitations and the substantial size of the complete hyperspectral tensor data, only representative sample tensors, metadata examples, preprocessing outputs, and generated experimental materials are publicly included within this repository.
+
+The uploaded sample tensor files are intended solely to demonstrate the tensor structure, preprocessing workflow, dimensional organization, and reproducibility pipeline associated with the proposed framework.
+
+The complete tensor dataset, additional experimental outputs, trained model checkpoints, and supplementary hyperspectral resources are available from the corresponding author upon reasonable academic request for research and reproducibility purposes.
+
+Representative Tensor Information:
+- Tensor Format: PyTorch (.pt)
+- Tensor Type: float32
+- Example Tensor Shape: [149, 78, 515]
+- Associated Framework: PyTorch-based CNN-LSTM implementation
+
+This repository is intended to support:
+- Research transparency
+- Experimental reproducibility
+- Methodological verification
+- Academic collaboration
+
+For additional information regarding large-scale tensor access, please contact the corresponding author.
