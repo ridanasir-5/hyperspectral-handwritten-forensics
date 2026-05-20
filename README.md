@@ -1,5 +1,6 @@
 # hyperspectral-handwritten-forensics
 Hybrid CNN-LSTM framework for hyperspectral handwriting analysis, writer verification, and ink mismatch detection.
+
 # Hyperspectral Handwriting Analysis for Writer Verification and Ink Mismatch Detection Using a Hybrid CNN-LSTM Model
 
 This repository contains the implementation, preprocessing pipeline, evaluation framework, representative metadata, and experimental materials associated with the research study:
